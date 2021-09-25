@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637679281926948416
+      ticks: 637681407476608756
     m_Hash: 3368506735
   m_LockFileStatus:
     m_FilePath: E:/Prototype/Endure/WaitForSalary/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637679281926978336
+      ticks: 637681407476648768
     m_Hash: 2571036671
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

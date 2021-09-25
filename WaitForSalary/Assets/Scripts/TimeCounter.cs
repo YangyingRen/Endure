@@ -27,7 +27,7 @@ public class TimeCounter : MonoBehaviour
             LeftDay.text=speed.ToString();
         }
         else{
-            TimeCount.fillAmount-=0.01f*speed*Time.deltaTime;
+            TimeCount.fillAmount-=0.1f*speed*Time.deltaTime;
 
         }
         
